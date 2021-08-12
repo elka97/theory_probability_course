@@ -1,1 +1,1 @@
-# theory_propapility_course
+# theory_probability_course
